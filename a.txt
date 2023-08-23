@@ -1,1 +1,2 @@
 teste
+Esta linha foi modificada no ramo Master
