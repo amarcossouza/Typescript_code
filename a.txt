@@ -1,2 +1,5 @@
 teste
 Esta linha foi modificada no ramo Master
+Entendendo o Head
+Esta linha foi modificada no ramos teste.
+
